@@ -1,9 +1,7 @@
 {
-    "name": "personal-website",
-	    "compatibility_date": "2025-11-25",
-	    "assets": {
-	      "directory":/opt/buildhome/repo/dist
-	  }
+  "name": "personal-website",
+  "compatibility_date": "2025-11-25",
+  "assets": {
+    "directory": "./dist"
+  }
 }
-
-
